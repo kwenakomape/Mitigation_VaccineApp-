@@ -14,4 +14,4 @@ allow for them to be verified once they arrive.
 
 Mobile application that will allow the medical workers to offer the excess vaccines to eligible people before they go to waste. 
 The application must match the available vaccines in a fair and orderly manner, send offers out to the selected individua
->>>>>>> c911692a3411b9cd98f0f5a8186fc20d68961476
+
