@@ -1,7 +1,4 @@
-# CapstoneConsrVac
-<<<<<<< HEAD
-Mobile application that will allow the medical workers to offer the excess vaccines to eligible people before they go to waste. The application must match the available vaccines in a fair and orderly manner, send offers out to the selected individua
-=======
+
 
 The medical workers at vaccination centres expect a certain number of people to show up each day. If a
 clinic has a no-show for a vaccine appointment, the allocated dose cannot be used the following day and
